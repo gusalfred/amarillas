@@ -1,0 +1,18 @@
+#RootMenu { padding: 0 !important; }
+.ewMenu .dropdown-menu  li  a{ padding: 8px 20px 8px 10px; border-bottom:1px solid #DDDDDD;}
+.ewGrid{ margin-top: 10px; border:none; }
+.accordion-heading{ background-color:#F0F0F0;}
+.ewGrid .ewGridContent { border: 0px solid #CFCFCF;}
+.ewGrid .ewTable{ border-left: 1px solid #9f9f9f; border-right:1px solid #9f9f9f; }
+.ewTableSeparate{ border: 1px solid #9F9F9F; margin-top:5px;}
+.ewGridUpperPanel{background-color:transparent;}
+   
+.ewHeaderRow{ border-bottom:1px solid #DDDDDD;}
+
+.no-padding{ padding:0;}
+#fcontactosview table { margin:0;}
+
+.table thead tr {background-color:#EAF1F8;}
+
+#fempresasview table{ width:100%;}
+#tbl_avisoslist .ewImage {width: 400px;}

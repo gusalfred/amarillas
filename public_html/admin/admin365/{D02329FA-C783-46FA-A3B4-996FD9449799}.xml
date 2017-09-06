@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<configuration date="2017/01/04" author="e.World Technology Ltd.">
+<project id="{D02329FA-C783-46FA-A3B4-996FD9449799}" file="C:\Proyectos\Amarillas365\admin365.pmp" name="admin365" product="PHPMaker" version="11.0" datetime="2017/01/04 09:33:55" languagefolder="lang" userlevel="0,&quot;Default&quot;,0">
+<table id="avisos" name="avisos" caption="Avisos" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="avisos_ubicaciones" name="avisos_ubicaciones" caption="Ubicaciones" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="categorias_nivel1" name="categorias_nivel1" caption="Categorias" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="categorias_nivel2" name="categorias_nivel2" caption="Sub categorias" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="categorias_nivel3" name="categorias_nivel3" caption="3er Nivel" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="configuraciones" name="configuraciones" caption="Configuracion General" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="contratos" name="contratos" caption="Contratos" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="contratos_avisos" name="contratos_avisos" caption="contratos avisos" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="contratos_ciudades" name="contratos_ciudades" caption="contratos ciudades" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="contratos_log" name="contratos_log" caption="empresas contratos log" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="departamentos" name="departamentos" caption="Departamentos" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="distritos" name="distritos" caption="Distritos" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empleados" name="empleados" caption="Empleados" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empleados_niveles" name="empleados_niveles" caption="Niveles de acceso" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empleados_permisos" name="empleados_permisos" caption="usuarios permisos" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empresas" name="empresas" caption="Empresas" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empresas_categorias" name="empresas_categorias" caption="empresas categorias" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empresas_direcciones" name="empresas_direcciones" caption="Direcciones" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empresas_media" name="empresas_media" caption="Media" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empresas_redes" name="empresas_redes" caption="Redes" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empresas_valoraciones" name="empresas_valoraciones" caption="empresas valoraciones" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="inicio_php" name="inicio.php" caption="Inicio" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="migrations" name="migrations" caption="migrations" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="password_resets" name="password_resets" caption="password resets" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="planes" name="planes" caption="Planes" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="provincias" name="provincias" caption="Provincias" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="recibos" name="recibos" caption="Recibos" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="redes_sociales" name="redes_sociales" caption="Redes sociales" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="ubicaciones" name="ubicaciones" caption="ubicaciones" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="users" name="users" caption="Usuarios" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="social_accounts" name="social_accounts" caption="social accounts" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>

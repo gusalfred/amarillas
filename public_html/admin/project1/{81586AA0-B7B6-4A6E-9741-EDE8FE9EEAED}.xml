@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<configuration date="2015/12/09" author="e.World Technology Ltd.">
+<project id="{81586AA0-B7B6-4A6E-9741-EDE8FE9EEAED}" file="" name="project1" product="PHPMaker" version="11.0" datetime="2015/12/09 16:51:46" languagefolder="lang" userlevel="0,&quot;Default&quot;,0">
+<table id="categories" name="categories" caption="Categories" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="departamentos" name="departamentos" caption="Departamentos" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="distritos" name="distritos" caption="Distritos" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empresas" name="empresas" caption="Empresas" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="logos" name="logos" caption="logos" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="provincias" name="provincias" caption="provincias" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="rubros" name="rubros" caption="rubros" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="temp_rubros_paginas" name="temp_rubros_paginas" caption="temp rubros paginas" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empleados" name="empleados" caption="Empleados" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empleados_niveles" name="empleados_niveles" caption="Niveles de acceso" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="empleados_permisos" name="empleados_permisos" caption="usuarios permisos" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>
